@@ -1,0 +1,15 @@
+.header__lang-link_en {
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 1.17;
+    font-family: "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link_en {
+      font-size: 18px;
+      line-height: 1.11;
+    }
+  }
+  

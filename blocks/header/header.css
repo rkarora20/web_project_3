@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 984px;
+  margin: 0 auto;
+  padding: 34px 148px 58px;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+  .header {
+    max-width: 928px;
+    margin: 0 auto;
+    padding: 34px 48px 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 34px 24px 50px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    max-width: 288px;
+    padding: 20px 16px 50px;
+    gap: 71px;
+  }
+}
