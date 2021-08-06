@@ -1,13 +1,12 @@
 .place {
-    max-width: 100%;
-    margin: 0 auto;
-    padding-bottom: 80px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding-bottom: 80px;
 }
 
 .place:last-child {
-    padding-bottom: 0;
+  padding-bottom: 0;
 }
-
 
 /* @media screen and (max-width: 1024px) {
     .place {
@@ -17,14 +16,14 @@
     }
   }  */
 
-  /* @media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .place {
       max-width: 720px;
       padding: 88px 24px 50px;
     }
   }  */
 
-  /* @media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .place {
       max-width: 320px;
       padding: 88px 48px 50px;

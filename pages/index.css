@@ -14,7 +14,6 @@
 @import url(../blocks/header/__lang-link/_en/header__lang-link_en.css);
 @import url(../blocks/header/__lang-link/_es/header__lang-link_es.css);
 
-
 /* link */
 
 @import url(../blocks/link/link.css);
@@ -69,4 +68,3 @@
 @import url(../blocks/footer/__link-container/footer__link-container.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-

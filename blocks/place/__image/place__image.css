@@ -4,22 +4,21 @@
   margin-top: 48px;
 }
 
-
 @media screen and (max-width: 1024px) {
   .place__image {
     max-width: 440px;
   }
-} 
+}
 
 @media screen and (max-width: 768px) {
   .place__image {
-    max-width: 340px; 
+    max-width: 340px;
     /* padding-bottom: 100%;    */
   }
-} 
+}
 
 @media screen and (max-width: 320px) {
   .place__image {
     max-width: 320px;
   }
-} 
+}

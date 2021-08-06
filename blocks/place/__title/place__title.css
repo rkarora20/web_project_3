@@ -7,25 +7,24 @@
   line-height: 76px;
   letter-spacing: 0em;
   text-align: left;
-  color: #FFFFFF;
+  color: #ffffff;
   margin: 0;
   flex-basis: 50%;
 }
-
 
 @media screen and (max-width: 1024px) {
   .place__title {
     max-width: 440px;
   }
-} 
+}
 
 @media screen and (max-width: 768px) {
   .place__title {
     max-width: 340px;
     font-size: 42px;
-    line-height: 1.10;    
+    line-height: 1.1;
   }
-} 
+}
 
 @media screen and (max-width: 320px) {
   .place__title {
@@ -33,4 +32,4 @@
     font-size: 32px;
     line-height: 1.09;
   }
-} 
+}
