@@ -1,4 +1,4 @@
-.header__lang-link_es {
+.header__lang-es {
   font-size: 24px;
   line-height: 1.17;
   color: #ffffff;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .header__lang-link_es {
+  .header__lang-es {
     font-size: 18px;
     line-height: 1.11;
   }

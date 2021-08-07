@@ -10,9 +10,9 @@
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_en/header__lang-link--en.css);
-@import url(../blocks/header/__lang-link/_es/header__lang-link--es.css);
+@import url(../blocks/header/__language/header__language.css);
+@import url(../blocks/header/__lang-en/header__lang-link_en.css);
+@import url(../blocks/header/__lang-es/header__lang-link_es.css);
 
 /* link */
 
