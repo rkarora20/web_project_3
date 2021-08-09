@@ -8,24 +8,23 @@
   padding-bottom: 0;
 }
 
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     .place {
-      max-width: 928px;
-      margin: 0;
-      padding: 92px 48px 80px;
+      max-width: 100%;
+      padding-bottom: 80px;
     }
-  }  */
+  } 
 
-/* @media screen and (max-width: 768px) {
+ @media screen and (max-width: 768px) {
     .place {
-      max-width: 720px;
-      padding: 88px 24px 50px;
+      max-width: 100%;
+      padding-bottom: 50px;
     }
-  }  */
+  } 
 
-/* @media screen and (max-width: 768px) {
+ @media screen and (max-width: 768px) {
     .place {
-      max-width: 320px;
-      padding: 88px 48px 50px;
+      max-width: 100%;
+      padding-bottom: 50px;
     }
-  }  */
+  } 

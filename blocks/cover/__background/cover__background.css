@@ -29,23 +29,3 @@
 .cover__background:hover::before {
   opacity: 0.5;
 }
-
-/* @media screen and (max-width: 1024px) {
-  .cover__background {
-    max-width: 928px;
-    margin: 0 auto;
-  }
-} */
-
-/* @media screen and (max-width: 768px) {
-  .cover__background {
-    padding-top: 89px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover__background {
-     margin: 0 auto; 
-     padding-top: 64px; 
-  }
-} */
