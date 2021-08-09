@@ -3,22 +3,4 @@
   flex-direction: column;
   gap: 25px;
   margin: 48px 0 0;
-  max-width: 484px;
-}
-@media screen and (max-width: 1024px) {
-  .place__description {
-    max-width: 456px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .place__description {
-    max-width: 352px;
-  }
-}
-@media screen and (max-width: 320px) {
-  .place__description {
-    max-width: 288px;
-    margin: 0 auto;
-  }
 }
