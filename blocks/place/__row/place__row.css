@@ -4,10 +4,27 @@
   gap: 40px;
 }
 
+@media screen and (max-width: 1024px) {
+  .place__row {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .place__row {
+    gap: 28px;
+  }
+}
+
+@media screen and (max-width: 666px) {
+  .place__row {
+    grid-template: 1fr / 1fr;
+    gap: 0;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place__row {
     grid-template: 1fr / 1fr;
-    flex-direction: column;
-    gap: 30px;
+    gap: 0;
   }
 }

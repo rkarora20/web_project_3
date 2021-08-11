@@ -1,7 +1,6 @@
 .footer__copyright {
   margin: 0;
   color: #ffffff;
-  font-family: Inter;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -10,7 +9,6 @@
 
 @media screen and (max-width: 320px) {
   .cover {
-    font-size: 14px;
     line-height: 14px;
     padding: 0;
     list-style-type: none;

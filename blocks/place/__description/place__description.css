@@ -4,3 +4,9 @@
   gap: 25px;
   margin: 48px 0 0;
 }
+
+@media screen and (max-width: 320px) {
+  .place__description {
+    margin-top: 32px;
+  }
+}
